@@ -1,8 +1,8 @@
 # Privacy Policy for Tongo
 
-**Last updated:** [DATE]
+**Last updated:** 2026/04/03
 
-**Contact:** [YOUR EMAIL]
+**Contact:** micstodev@gmail.com
 
 ## 1. Introduction
 
@@ -108,6 +108,6 @@ We may update this privacy policy from time to time. The updated version will be
 
 If you have questions about this privacy policy, please contact:
 
-[YOUR NAME]
-[YOUR EMAIL]
-[YOUR CITY, COUNTRY]
+Michael Engelhardt-Stolz
+micstodev@gmail.com
+Aachen, Germany
