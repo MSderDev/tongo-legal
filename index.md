@@ -110,4 +110,4 @@ If you have questions about this privacy policy, please contact:
 
 Michael Engelhardt-Stolz
 micstodev@gmail.com
-Aachen, Germany
+Alsdorf, Germany
