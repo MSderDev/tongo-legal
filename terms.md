@@ -60,7 +60,7 @@ We may terminate or suspend access to the App at any time, without prior notice,
 
 ## 11. Governing Law
 
-These terms are governed by the laws of Germany. Any disputes shall be resolved in the courts of Aachen, Germany.
+These terms are governed by the laws of Germany. Any disputes shall be resolved in the courts of Alsdorf, Germany.
 
 ## 12. Contact
 
