@@ -1,6 +1,6 @@
 # Terms of Service for Tongo
 
-**Last updated:** [DATE]
+**Last updated:** 2026/04/03
 
 ## 1. Acceptance of Terms
 
@@ -60,7 +60,7 @@ We may terminate or suspend access to the App at any time, without prior notice,
 
 ## 11. Governing Law
 
-These terms are governed by the laws of [YOUR COUNTRY]. Any disputes shall be resolved in the courts of [YOUR CITY, COUNTRY].
+These terms are governed by the laws of Germany. Any disputes shall be resolved in the courts of Aachen, Germany.
 
 ## 12. Contact
 
